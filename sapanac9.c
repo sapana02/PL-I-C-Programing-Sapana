@@ -1,0 +1,15 @@
+/*
+Program(9) Write a c program to demonstrate the use of single-line and multi-line comments.
+*/
+#include <stdio.h>
+int main()
+{ 
+    //This is a single-line comment...
+
+    /*
+    This is a multi-line comment.
+    it can span across multiple lines.
+    */
+
+    return 0;
+}
